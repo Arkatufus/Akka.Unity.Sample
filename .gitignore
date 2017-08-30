@@ -1,0 +1,11 @@
+Chat/Unity/.vs/
+Chat/Unity/Library/
+Chat/VS2017/.vs/
+Chat/VS2017/bin/
+Chat/VS2017/packages/
+Chat/VS2017/src/Chat.Client/bin/
+Chat/VS2017/src/Chat.Client/obj/
+Chat/VS2017/src/Chat.Messages/bin/
+Chat/VS2017/src/Chat.Messages/obj/
+Chat/VS2017/src/Chat.Server/bin/
+Chat/VS2017/src/Chat.Server/obj/
